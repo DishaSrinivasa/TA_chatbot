@@ -1,0 +1,10 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.cache/
+.idea/
+.DS_Store
+# Lecture slides are copyrighted course material; add your own PDFs locally.
+data/*.pdf
